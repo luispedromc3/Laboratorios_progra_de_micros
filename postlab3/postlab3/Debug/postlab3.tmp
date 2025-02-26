@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PBDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\Debug\postlab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>postlab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>postlab3.map</FILE>
+  <FILE>postlab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>28</LINE></INICIAR>
+  <ISR_ON_CHANGE><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>180</LINE></ISR_ON_CHANGE>
+  <ISR_TIMER0><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>143</LINE></ISR_TIMER0>
+  <TABLA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>39</LINE></TABLA>
+  <COPIAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>47</LINE></COPIAR>
+  <SETUP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>55</LINE></SETUP>
+  <INIT_TMR0><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>134</LINE></INIT_TMR0>
+  <LOOP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>107</LINE></LOOP>
+  <AUMENTAR_SEGUNDOS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>112</LINE></AUMENTAR_SEGUNDOS>
+  <AUMENTAR_DECENAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>119</LINE></AUMENTAR_DECENAS>
+  <LIMPIAR_CLK><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>128</LINE></LIMPIAR_CLK>
+  <DISPLAY_DECENAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>168</LINE></DISPLAY_DECENAS>
+  <DISPLAY_UNIDADES><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>163</LINE></DISPLAY_UNIDADES>
+  <SALIR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Repositorio_Github\Laboratorios_progra_de_micros\postlab3\postlab3\main.asm</FILE><LINE>172</LINE></SALIR>
+ </LABELS>
+</ASSEMBLER_INFO>
