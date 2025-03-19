@@ -1,0 +1,142 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PBDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\Debug\PROYECTO1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PROYECTO1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PROYECTO1.map</FILE>
+  <FILE>PROYECTO1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>52</LINE></SETUP>
+  <ISR_ON_CHANGE><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>675</LINE></ISR_ON_CHANGE>
+  <ISR_TIMER0><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>937</LINE></ISR_TIMER0>
+  <TABLA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>21</LINE></TABLA>
+  <INIT_TMR0><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>657</LINE></INIT_TMR0>
+  <LOOP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>136</LINE></LOOP>
+  <TOGGLEAR_PARPADEO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>142</LINE></TOGGLEAR_PARPADEO>
+  <CONTAR_TIEMPO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>146</LINE></CONTAR_TIEMPO>
+  <LOOP2><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>341</LINE></LOOP2>
+  <AUMENTAR_UNIDADES_MIN><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>153</LINE></AUMENTAR_UNIDADES_MIN>
+  <CONTAR_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>199</LINE></CONTAR_FECHA>
+  <AUMENTAR_DEC_MIN><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>160</LINE></AUMENTAR_DEC_MIN>
+  <AUMENTAR_UNIDADES_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>167</LINE></AUMENTAR_UNIDADES_HORAS>
+  <LLEGAMOS_24H><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>178</LINE></LLEGAMOS_24H>
+  <AUMENTAR_DEC_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>184</LINE></AUMENTAR_DEC_HORAS>
+  <RESET_HORA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>191</LINE></RESET_HORA>
+  <OCT_NOV_DEC><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>223</LINE></OCT_NOV_DEC>
+  <ENERO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>231</LINE></ENERO>
+  <FEBRERO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>234</LINE></FEBRERO>
+  <MARZO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>242</LINE></MARZO>
+  <ABRIL><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>245</LINE></ABRIL>
+  <MAYO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>248</LINE></MAYO>
+  <JUNIO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>251</LINE></JUNIO>
+  <JULIO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>254</LINE></JULIO>
+  <AGOSTO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>257</LINE></AGOSTO>
+  <SEPTIEMBRE><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>260</LINE></SEPTIEMBRE>
+  <OCTUBRE><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>263</LINE></OCTUBRE>
+  <NOVIEMBRE><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>266</LINE></NOVIEMBRE>
+  <DICIEMBRE><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>269</LINE></DICIEMBRE>
+  <VERIFICAR_MES31><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>287</LINE></VERIFICAR_MES31>
+  <MES_28><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>299</LINE></MES_28>
+  <AUMENTAR_DECENAS_DIAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>295</LINE></AUMENTAR_DECENAS_DIAS>
+  <VERIFICAR_MES30><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>273</LINE></VERIFICAR_MES30>
+  <MES_30><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>281</LINE></MES_30>
+  <AUMENTAR_UNIDADES_MESES><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>310</LINE></AUMENTAR_UNIDADES_MESES>
+  <MES_31><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>304</LINE></MES_31>
+  <DICIEMBRE_30><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>328</LINE></DICIEMBRE_30>
+  <AUMENTAR_DECENAS_MESES><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>323</LINE></AUMENTAR_DECENAS_MESES>
+  <R_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>333</LINE></R_FECHA>
+  <SAL_CONF_HORA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>357</LINE></SAL_CONF_HORA>
+  <SAL_MODO_HORA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>355</LINE></SAL_MODO_HORA>
+  <SAL_CONF_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>361</LINE></SAL_CONF_FECHA>
+  <SAL_MODO_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>359</LINE></SAL_MODO_FECHA>
+  <SAL_CONF_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>363</LINE></SAL_CONF_ALARMA>
+  <MODO_HORA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>366</LINE></MODO_HORA>
+  <CONF_HORA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>440</LINE></CONF_HORA>
+  <MODO_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>462</LINE></MODO_FECHA>
+  <CONF_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>472</LINE></CONF_FECHA>
+  <CONF_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>550</LINE></CONF_ALARMA>
+  <DISP_LEDS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>381</LINE></DISP_LEDS>
+  <VERIFICAR_ENCENDER_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>635</LINE></VERIFICAR_ENCENDER_ALARMA>
+  <DISP1><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>392</LINE></DISP1>
+  <DISP2><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>402</LINE></DISP2>
+  <DISP3><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>412</LINE></DISP3>
+  <DISP4><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>422</LINE></DISP4>
+  <OUT_DISPLAY><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>433</LINE></OUT_DISPLAY>
+  <TOGGLEAR_HORA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>448</LINE></TOGGLEAR_HORA>
+  <CONTINUAR_CONFHORA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>452</LINE></CONTINUAR_CONFHORA>
+  <DISP_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>492</LINE></DISP_FECHA>
+  <TOGGLEAR_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>486</LINE></TOGGLEAR_FECHA>
+  <DP1><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>503</LINE></DP1>
+  <DP2><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>513</LINE></DP2>
+  <DP3><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>523</LINE></DP3>
+  <DP4><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>533</LINE></DP4>
+  <OUT_DP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>544</LINE></OUT_DP>
+  <ALARMA_CONFIGURADA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>571</LINE></ALARMA_CONFIGURADA>
+  <TOGGLEAR_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>560</LINE></TOGGLEAR_ALARMA>
+  <CONTINUAR_MODOALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>564</LINE></CONTINUAR_MODOALARMA>
+  <DISP_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>577</LINE></DISP_ALARMA>
+  <DISP1_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>588</LINE></DISP1_ALARMA>
+  <DISP2_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>598</LINE></DISP2_ALARMA>
+  <DISP3_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>608</LINE></DISP3_ALARMA>
+  <DISP4_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>618</LINE></DISP4_ALARMA>
+  <OUT_DISPLAY_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>629</LINE></OUT_DISPLAY_ALARMA>
+  <COMPARAR_DECENAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>639</LINE></COMPARAR_DECENAS>
+  <REGRESAR_ENCENDER_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>654</LINE></REGRESAR_ENCENDER_ALARMA>
+  <COMPARAR_UNIDADES_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>643</LINE></COMPARAR_UNIDADES_HORAS>
+  <COMPARAR_DECENAS_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>647</LINE></COMPARAR_DECENAS_HORAS>
+  <ENCENDER_A><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>651</LINE></ENCENDER_A>
+  <APAGAR_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>689</LINE></APAGAR_ALARMA>
+  <PB_RESTAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>705</LINE></PB_RESTAR>
+  <PB_INCREMENTAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>818</LINE></PB_INCREMENTAR>
+  <CAMBIAR_MODO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>921</LINE></CAMBIAR_MODO>
+  <SALIR_ISR_ONCHANGE><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>930</LINE></SALIR_ISR_ONCHANGE>
+  <APAGAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>695</LINE></APAGAR>
+  <RESTAR_UNIDADES_MIN><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>735</LINE></RESTAR_UNIDADES_MIN>
+  <PB_RESTAR_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>776</LINE></PB_RESTAR_ALARMA>
+  <PB_INC_DECENAS_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>713</LINE></PB_INC_DECENAS_FECHA>
+  <YA_ES_NAVIDAD><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>726</LINE></YA_ES_NAVIDAD>
+  <PB_SUMAR_DEC_MESES><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>722</LINE></PB_SUMAR_DEC_MESES>
+  <REINICIAR_NAVIDAD><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>731</LINE></REINICIAR_NAVIDAD>
+  <RESTAR_DECENAS_MIN><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>741</LINE></RESTAR_DECENAS_MIN>
+  <RESTAR_UNIDADES_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>749</LINE></RESTAR_UNIDADES_HORAS>
+  <RESTAR_DECENAS_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>757</LINE></RESTAR_DECENAS_HORAS>
+  <LLENAR_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>765</LINE></LLENAR_HORAS>
+  <RESTAR_DECENAS_MIN_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>782</LINE></RESTAR_DECENAS_MIN_ALARMA>
+  <RESTAR_UNIDADES_HORAS_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>790</LINE></RESTAR_UNIDADES_HORAS_ALARMA>
+  <RESTAR_DECENAS_HORAS_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>798</LINE></RESTAR_DECENAS_HORAS_ALARMA>
+  <LLENAR_HORAS_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>806</LINE></LLENAR_HORAS_ALARMA>
+  <INC_UNIDADES_MIN><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>830</LINE></INC_UNIDADES_MIN>
+  <PB_INC_FECHA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>827</LINE></PB_INC_FECHA>
+  <PB_SUMAR_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>873</LINE></PB_SUMAR_ALARMA>
+  <INC_DECENAS_MIN><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>836</LINE></INC_DECENAS_MIN>
+  <INC_UNIDADES_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>843</LINE></INC_UNIDADES_HORAS>
+  <INC_24HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>853</LINE></INC_24HORAS>
+  <INC_DECENAS_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>859</LINE></INC_DECENAS_HORAS>
+  <VACIAR_HORAS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>866</LINE></VACIAR_HORAS>
+  <AUMENTAR_DEC_MIN_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>882</LINE></AUMENTAR_DEC_MIN_ALARMA>
+  <AUMENTAR_UNIDADES_HORAS_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>889</LINE></AUMENTAR_UNIDADES_HORAS_ALARMA>
+  <LLEGAMOS_24H_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>900</LINE></LLEGAMOS_24H_ALARMA>
+  <AUMENTAR_DEC_HORAS_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>906</LINE></AUMENTAR_DEC_HORAS_ALARMA>
+  <RESET_HORA_ALARMA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>913</LINE></RESET_HORA_ALARMA>
+  <LIMPIAR_MODOS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>927</LINE></LIMPIAR_MODOS>
+  <YA_PASO_UN_SEGUNDO><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>949</LINE></YA_PASO_UN_SEGUNDO>
+  <SALIR_ISR_TIMER0><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Proyecto 1\PROYECTO1\PROYECTO1\main.asm</FILE><LINE>955</LINE></SALIR_ISR_TIMER0>
+ </LABELS>
+</ASSEMBLER_INFO>
