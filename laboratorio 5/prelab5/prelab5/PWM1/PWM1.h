@@ -13,7 +13,5 @@
 
 //CONF PWM1
 void PMW1CONFIG(uint16_t top, uint16_t prescaler);
-//CICLO DE TRABAJO
-void CICLODETRABAJO(uint16_t VAL, uint16_t LIMITE_INF, uint16_t LIMITE_SUP);
 
 #endif /* PWM1_H_ */
