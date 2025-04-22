@@ -15,7 +15,6 @@
 void setup();
 void initADC();
 void PMW1CONFIG(uint16_t top, uint16_t prescaler);
-void CICLODETRABAJO(uint16_t VAL, uint16_t LIMITE_INF, uint16_t LIMITE_SUP);
 /****************************************/
 // Main Function
 int main(void)
@@ -24,7 +23,8 @@ int main(void)
 	PMW1CONFIG(312,64);
 	while (1)
 	{
-		CICLODETRABAJO(ADCH,7,37);
+		//salida del pwm en pb1
+		OCR1A = ((ADCH*30/255) +7);
 	}
 }
 /****************************************/
